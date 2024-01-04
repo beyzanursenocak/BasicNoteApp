@@ -1,2 +1,1 @@
-# BasicNoteApp
- BasicNoteApp
+https://basic-note-app.netlify.app/
